@@ -1,0 +1,17 @@
+{
+    "name": "com.dimati.debug.graphs",
+    "displayName": "Debug Graphs",
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "unityRelease": "",
+    "description": "Debug Graphs. For use call: \n\tDebugGraph.Log(key, value)\n",
+    "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "keywords": [
+        "Debug"
+    ],
+    "category": "Base",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimaTidev/DebugGraphs.git"
+    }
+}
